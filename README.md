@@ -1,4 +1,4 @@
-# Planification_and_control_of_robot
+# Planification and control of robot
 
 *Prof : Julien Alexandre dit Sandretto & David FILLIAT & Philippe Morignot*
 
